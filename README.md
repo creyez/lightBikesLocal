@@ -1,2 +1,0 @@
-# lightBikesLocal
-Local Version
