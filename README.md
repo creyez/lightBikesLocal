@@ -4,4 +4,5 @@ LightBikes is a 2-player game where both players create their own lighttrail and
 
 Controls:
   Player 1: WASD to move and SPACE to jump
+  
   Player 2: ARROW KEYS to move and SHIFT to jump
